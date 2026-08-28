@@ -147,5 +147,5 @@ quintal-do-rio/
     ├── almoço-trabalho.png
     ├── almoço-com-amigos.png
     ├── almoço-em-familia.png
-    └── preview.png localização.png
+    └── localização.png
  
